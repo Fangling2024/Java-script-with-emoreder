@@ -12,5 +12,4 @@ function fizzBuzz(n) {
     }
 }
 
-// Example usage:
-fizzBuzz(15);
+
